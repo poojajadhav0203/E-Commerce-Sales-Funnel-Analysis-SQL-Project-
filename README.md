@@ -32,9 +32,8 @@ Tables used:
 - `data/` → Dataset files
 
 ## Key Insights
-1. ~X% of customers are repeat buyers.
-2. Average order value is highest in state `PB`.
-3. Cohort analysis shows customer retention drops after month 3.
+1. Average order value is highest in state `PB`.
+2. Cohort analysis shows customer retention drops after month 3.
 4. Top product categories by revenue: HEALTH BEAUTY, PCs, computer accessories
 5. Credit card is the most used payment method.
 
